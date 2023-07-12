@@ -7,7 +7,7 @@ Este repositorio contiene los archivos necesarios para ejecutar el proyecto [nom
 Puedes obtener los archivos de este repositorio de las siguientes maneras:
 
 - Descargar todo el repositorio como un archivo ZIP desde la página principal del repositorio en GitHub.
-- Clonar el repositorio usando Git con el comando: `git clone https://github.com/tu-usuario/nombre-del-repositorio.git`
+- Clonar el repositorio usando Git con el comando: `git clone https://github.com/PaoloRuizS/pythonml.git`  
 
 ## Ejecución de los archivos de Python
 
@@ -15,8 +15,6 @@ Para ejecutar los scripts de Python:
 
 1. Asegúrate de tener Python instalado en tu sistema.
 2. Navega hasta el directorio donde descargaste/clonaste el repositorio.
-3. Instala las dependencias requeridas utilizando `pip install -r requirements.txt`.
-4. Ejecuta los scripts de Python según las instrucciones proporcionadas en la documentación o el archivo README del repositorio.
 
 ## Contribución
 
