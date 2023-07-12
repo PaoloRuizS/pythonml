@@ -20,6 +20,6 @@ def jugar():
          (jugador == "tijeras" and computadora == "papel"):
         print("¡Ganaste!")
     else:
-        print("Perdiste")
+        print("¡Perdiste!")
 
 jugar()
